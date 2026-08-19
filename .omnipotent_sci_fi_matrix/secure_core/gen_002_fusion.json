@@ -1,0 +1,11 @@
+{
+    "generation": 2,
+    "timestamp": "2026-08-19T22:24:58.109057",
+    "previous_hash": "878b08559bbd7ec29a165fb3d4cea6680af2c3199a462913b200f4a0a08b41ae",
+    "hardware_entropy": "52b500d1e6779d32b61f52cce2760d6b07f7623601afa5761705152114796996",
+    "metrics": {
+        "defense_integrity": 100.0,
+        "cumulative_runs": 2
+    },
+    "current_hash": "718f08b2dadd36fc989c94563a6f181e2e9efe95c154eca621fbb82650ce539b"
+}
