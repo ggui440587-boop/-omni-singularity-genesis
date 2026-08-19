@@ -1,0 +1,8 @@
+name: Auto Evolution
+on: [push, workflow_dispatch]
+jobs:
+  run-core:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: python3 core.py
